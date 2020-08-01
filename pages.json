@@ -1,0 +1,104 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "识别"
+			}
+		},
+		{
+			"path": "pages/tabBar/voice/voice",
+			"style": {
+				"navigationBarTitleText": "语音",
+				"app-plus": {
+					"bounce": "vertical",
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#FFFFFF"
+						}]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/tabBar/classify/classify",
+			"style": {
+				"navigationBarTitleText": "分类",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [{
+							"text": "\ue534",
+							"fontSrc": "/static/uni.ttf",
+							"fontSize": "22px",
+							"color": "#FFFFFF"
+						}]
+					}
+				}
+			}
+		}, 
+		{
+			"path": "pages/tabBar/me/me",
+			"style": {
+
+			}
+		}
+	    ,{
+            "path" : "pages/component/component",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/changeCity/changeCity",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/takePhoto/takePhoto",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/component/productData",
+            "style" : {}
+        }
+
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		// "navigationBarTitleText": "uni-app",
+		// "navigationBarBackgroundColor": "#007AFF",
+		"navigationBarBackgroundColor": "#ccc",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				// "iconPath": "static/extui.png",
+				// "selectedIconPath": "static/extuiHL.png",
+				"text": "识别"
+			},
+			{
+				"pagePath": "pages/tabBar/voice/voice",
+				// "iconPath": "static/component.png",
+				// "selectedIconPath": "static/componentHL.png",
+				"text": "语音"
+			},
+			{
+				"pagePath": "pages/tabBar/classify/classify",
+				// "iconPath": "static/api.png",
+				// "selectedIconPath": "static/apiHL.png",
+				"text": "分类"
+			},
+			{
+				"pagePath": "pages/tabBar/me/me",
+				// "iconPath": "static/api.png",
+				// "selectedIconPath": "static/apiHL.png",
+				"text": "我的"
+			}
+		]
+	}
+}

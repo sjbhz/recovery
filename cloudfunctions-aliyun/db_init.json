@@ -1,0 +1,413 @@
+//在本文件中可配置云数据库初始化，数据格式见：https://uniapp.dcloud.io/uniCloud/cf-database?id=db_init
+
+//编写完毕后对本文件点右键，可按配置规则创建表和添加数据
+
+{
+	"commit": {},
+	"lessproduct": {
+		"data": [{
+				"name": "艾草",
+				"sortId": "3"
+			}, {
+				"name": "棒棒糖",
+				"sortId": "3"
+			},
+			{
+				"name": "糖果",
+				"sortId": "3"
+			}, {
+				"name": "八宝粥",
+				"sortId": "3"
+			},
+			{
+				"name": "白茶",
+				"sortId": "3"
+			}, {
+				"name": "布丁",
+				"sortId": "3"
+			},
+			{
+				"name": "饼干",
+				"sortId": "3"
+			}, {
+				"name": "碧根果肉",
+				"sortId": "3"
+			},
+			{
+				"name": "爆米花",
+				"sortId": "3"
+			},
+			{
+				"name": "白米虾",
+				"sortId": "3"
+			}, {
+				"name": "冰淇淋",
+				"sortId": "3"
+			},
+			{
+				"name": "白糖",
+				"sortId": "3"
+			}, {
+				"name": "百香果壳",
+				"sortId": "3"
+			},
+			{
+				"name": "包子",
+				"sortId": "3"
+			}, {
+				"name": "葱",
+				"sortId": "3"
+			},
+			{
+				"name": "草本植物",
+				"sortId": "3"
+			}, {
+				"name": "蚕豆",
+				"sortId": "3"
+			}, {
+				"name": "蚕豆壳",
+				"sortId": "3"
+			},
+			{
+				"name": "臭虫",
+				"sortId": "3"
+			}, {
+				"name": "臭豆腐",
+				"sortId": "3"
+			},
+			{
+				"name": "鲜花",
+				"sortId": "3"
+			},
+			{
+				"name": "药剂",
+				"sortId": "2"
+			}, {
+				"name": "药片包装",
+				"sortId": "2"
+			},
+			{
+				"name": "药片铝塑包装",
+				"sortId": "2"
+			},
+			{
+				"name": "药品纸盒",
+				"sortId": "2"
+			}, {
+				"name": "油漆笔",
+				"sortId": "2"
+			}, {
+				"name": "油漆桶",
+				"sortId": "2"
+			},
+			{
+				"name": "药丸",
+				"sortId": "2"
+			}, {
+				"name": "药液袋",
+				"sortId": "2"
+			},
+			{
+				"name": "鱼油胶囊",
+				"sortId": "2"
+			}, {
+				"name": "医用棉签",
+				"sortId": "2"
+			},
+			{
+				"name": "医用纱布",
+				"sortId": "2"
+			}, {
+				"name": "眼药水",
+				"sortId": "2"
+			}, {
+				"name": "眼药水瓶",
+				"sortId": "2"
+			},
+			{
+				"name": "医用手套",
+				"sortId": "2"
+			}, {
+				"name": "医用针管",
+				"sortId": "2"
+			},
+			{
+				"name": "医用注射器",
+				"sortId": "2"
+			}, {
+				"name": "痔疮膏",
+				"sortId": "2"
+			}, {
+				"name": "中成药",
+				"sortId": "2"
+			},
+			{
+				"name": "针管",
+				"sortId": "2"
+			}, {
+				"name": "指甲油瓶子",
+				"sortId": "2"
+			},
+			{
+				"name": "止咳糖浆瓶",
+				"sortId": "2"
+			}, {
+				"name": "蟑螂药",
+				"sortId": "2"
+			}, {
+				"name": "樟脑丸",
+				"sortId": "2"
+			},
+			{
+				"name": "针头",
+				"sortId": "2"
+			}, {
+				"name": "针筒",
+				"sortId": "2"
+			}, {
+				"name": "止痛膏",
+				"sortId": "2"
+			},
+			{
+				"name": "纸药盒",
+				"sortId": "2"
+			}, {
+				"name": "消毒剂",
+				"sortId": "2"
+			},
+			{
+				"name": "1号电池（无汞）",
+				"sortId": "4"
+			}, {
+				"name": "502胶水",
+				"sortId": "4"
+			},
+			{
+				"name": "5号电池（无汞）",
+				"sortId": "4"
+			}, {
+				"name": "7号电池（无汞）",
+				"sortId": "4"
+			},
+			{
+				"name": "84消毒液瓶",
+				"sortId": "4"
+			}, {
+				"name": "A4纸包装袋",
+				"sortId": "4"
+			},
+			{
+				"name": "CD",
+				"sortId": "4"
+			}, {
+				"name": "DVD",
+				"sortId": "4"
+			},
+			{
+				"name": "KFC食物包装",
+				"sortId": "4"
+			}, {
+				"name": "KFC纸盒",
+				"sortId": "4"
+			},
+			{
+				"name": "PH试纸",
+				"sortId": "4"
+			}, {
+				"name": "艾草灰",
+				"sortId": "4"
+			},
+			{
+				"name": "艾灸贴",
+				"sortId": "4"
+			}, {
+				"name": "艾灸渣",
+				"sortId": "4"
+			},
+			{
+				"name": "白板笔",
+				"sortId": "4"
+			}, {
+				"name": "棒冰包装袋",
+				"sortId": "4"
+			}, {
+				"name": "白板擦",
+				"sortId": "4"
+			},
+			{
+				"name": "棒冰棍",
+				"sortId": "4"
+			}, {
+				"name": "冰棒棍",
+				"sortId": "4"
+			}, {
+				"name": "冰棒皮",
+				"sortId": "4"
+			},
+			{
+				"name": "冰宝贴",
+				"sortId": "4"
+			},
+			{
+				"name": "冰袋",
+				"sortId": "4"
+			},
+			{
+				"name": "电动牙刷",
+				"sortId": "1"
+			}, {
+				"name": "电饭煲",
+				"sortId": "1"
+			}, {
+				"name": "电话机",
+				"sortId": "1"
+			},
+			{
+				"name": "电锯",
+				"sortId": "1"
+			}, {
+				"name": "豆浆机",
+				"sortId": "1"
+			}, {
+				"name": "电烤箱",
+				"sortId": "1"
+			},
+			{
+				"name": "滴露瓶",
+				"sortId": "1"
+			}, {
+				"name": "电脑",
+				"sortId": "1"
+			}, {
+				"name": "电脑包",
+				"sortId": "1"
+			},
+			{
+				"name": "电瓶车防晒垫",
+				"sortId": "1"
+			}, {
+				"name": "电瓶",
+				"sortId": "1"
+			}, {
+				"name": "刀片",
+				"sortId": "1"
+			},
+			{
+				"name": "打气筒",
+				"sortId": "1"
+			}, {
+				"name": "地球仪",
+				"sortId": "1"
+			}, {
+				"name": "电容",
+				"sortId": "1"
+			},
+			{
+				"name": "电热水壶",
+				"sortId": "1"
+			}, {
+				"name": "电热毯",
+				"sortId": "1"
+			}, {
+				"name": "电扇",
+				"sortId": "1"
+			},
+			{
+				"name": "电水壶",
+				"sortId": "1"
+			}, {
+				"name": "订书机",
+				"sortId": "1"
+			}, {
+				"name": "电视机",
+				"sortId": "1"
+			},
+			{
+				"name": "地毯",
+				"sortId": "1"
+			}, {
+				"name": "蛋挞盒",
+				"sortId": "1"
+			}, {
+				"name": "地铁票",
+				"sortId": "1"
+			},
+			{
+				"name": "大提琴",
+				"sortId": "1"
+			}, {
+				"name": "电蚊拍",
+				"sortId": "1"
+			}, {
+				"name": "电源插头",
+				"sortId": "1"
+			},
+			{
+				"name": "电熨斗",
+				"sortId": "1"
+			}, {
+				"name": "打印机",
+				"sortId": "1"
+			}, {
+				"name": "打印纸",
+				"sortId": "1"
+			},
+			{
+				"name": "电子表",
+				"sortId": "1"
+			}, {
+				"name": "电钻",
+				"sortId": "1"
+			}, {
+				"name": "电蒸锅",
+				"sortId": "1"
+			},
+			{
+				"name": "电子灭蚊拍",
+				"sortId": "1"
+			}, {
+				"name": "电子手表",
+				"sortId": "1"
+			},
+			{
+				"name": "电子血压仪",
+				"sortId": "1"
+			}, {
+				"name": "耳机",
+				"sortId": "1"
+			},
+			{
+				"name": "二手手机",
+				"sortId": "1"
+			},
+			{
+				"name": "帆布包",
+				"sortId": "1"
+			}, {
+				"name": "帆布鞋",
+				"sortId": "1"
+			}, {
+				"name": "废报纸",
+				"sortId": "1"
+			},
+			{
+				"name": "翡翠手镯",
+				"sortId": "1"
+			}, {
+				"name": "废电路板",
+				"sortId": "1"
+			},
+			{
+				"name": "废旧电子产品",
+				"sortId": "1"
+			},
+			{
+				"name": "可乐罐",
+				"sortId": "1"
+			}
+			
+		]
+	},
+	"product": {},
+	"sort": {}
+}
